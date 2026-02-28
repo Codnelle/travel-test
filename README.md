@@ -35,3 +35,10 @@ git push -u origin main
 ```
 
 Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your GitHub username and repo name.
+
+
+## Author
+
+Built by Kashish Sharma 
+GitHub: https://github.com/Codnelle
+LinkedIn: https://www.linkedin.com/in/kashishsharma601/
