@@ -1,13 +1,13 @@
 /* ===== Variables ===== */
 :root {
-  --color-deep: #0d2d3a;
-  --color-deep-soft: #1a4354;
-  --color-ink: #2c3e50;
-  --color-warm: #c9a227;
-  --color-warm-light: #e5c76b;
-  --color-cream: #f8f6f2;
+  --color-deep: #70abc3;
+  --color-deep-soft: #451a54;
+  --color-ink: #030406;
+  --color-warm: #c92727;
+  --color-warm-light: #81e56b;
+  --color-cream: #f8f2f8;
   --color-cream-dark: #ebe8e2;
-  --color-white: #fff;
+  --color-white: #8a5353;
   --color-coral: #c47b6b;
   --font-heading: "Cormorant Garamond", Georgia, serif;
   --font-body: "Outfit", system-ui, sans-serif;

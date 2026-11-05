@@ -1,4 +1,4 @@
-# Wanderlust — Curated Journeys
+# Travel — Curated Journeys
 
 A single-page website for a travel agency, built with HTML, CSS, and JavaScript.
 
@@ -24,7 +24,7 @@ Then visit `http://localhost:8000` (or the port shown).
 
 ## Push to GitHub
 
-1. Create a new repository on [GitHub](https://github.com/new) (e.g. name: `heyjobs` or `wanderlust-travel`). Do **not** add a README, .gitignore, or license (this repo already has them).
+1. Create a new repository on [GitHub](https://github.com/new) (e.g. name: `heyjobs` or `Travel-travel`). Do **not** add a README, .gitignore, or license (this repo already has them).
 2. In this folder, add the remote and push:
 
 ```bash
