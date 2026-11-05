@@ -14,13 +14,18 @@
   <header class="header">
     <nav class="nav">
       <a href="#" class="logo">Wanderlust</a>
-      <ul class="nav-links">
+      <ul class="nav-links" id="primary-navigation">
         <li><a href="#destinations">Destinations</a></li>
         <li><a href="#experiences">Experiences</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
-      <button class="nav-toggle" aria-label="Toggle menu">
+      <button
+          class="nav-toggle"
+          aria-label="Toggle menu"
+          aria-expanded="false"
+          aria-controls="primary-navigation"
+     >
         <span></span>
         <span></span>
         <span></span>
